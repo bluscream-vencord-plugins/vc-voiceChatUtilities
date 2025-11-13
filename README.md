@@ -6,4 +6,4 @@ Allows you to perform multiple actions on an entire channel (move, mute, disconn
 
 
 # Installation
-See the [forum thread](https://discord.com/channels/1015060230222131221/1257038407503446176/1257038407503446176) / [Vencord docs](https://docs.vencord.dev/installing/custom-plugins/)
+See [here](https://github.com/D3SOX/vencord-userplugins#install) and the [Vencord docs for installing custom plugins](https://docs.vencord.dev/installing/custom-plugins/)
